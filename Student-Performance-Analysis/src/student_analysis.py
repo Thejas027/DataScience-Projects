@@ -1,16 +1,9 @@
-# ===============================
-# Student Performance Analysis
-# ===============================
-
 import os
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Optional: ensures plots open correctly in VS Code
-import matplotlib
-matplotlib.use('TkAgg')
 
 # 1. Set visualization style
 sns.set(style="whitegrid")
